@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+build/
+dist/
+dagitim/
+.pytest_cache/
+# Sağlık verisi depoya girmez
+*.dcm
+DICOMDIR
+ornek/
+cikti*/
